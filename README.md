@@ -14,6 +14,7 @@ This is a dataset for binary sentiment classification containing substantially m
 ## Objectives:
 1) Sentiment Analysis
 2) Opinion Mining using Aspect Extraction and Emotion Analysis
+3) Topic Modeling 
 
 ## Strategic Plan of Action:
 
