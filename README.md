@@ -2,7 +2,7 @@
 
 ## File Descriptions:
 - [Basic_Sentiment_Analysis](https://github.com/masonlonoff/MovieReviews/blob/main/Basic_Sentiment_Analysis.ipynb): Contains the simple sentiment analysis with word clouds
-- [Advanced_Sentiment_Analysis]:(https://github.com/masonlonoff/MovieReviews/blob/main/Advanced_Sentiment_Analysis.ipynb): Contains code for sentiment analysis, aspect extraction, emotion analysis, and topic modeling
+- [Advanced_Sentiment_Analysis](https://github.com/masonlonoff/MovieReviews/blob/main/Advanced_Sentiment_Analysis.ipynb): Contains code for sentiment analysis, aspect extraction, emotion analysis, and topic modeling
 
 
 ## Table of Contents:
