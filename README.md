@@ -1,5 +1,10 @@
 # IMDB Dataset of 50K Movie Reviews
 
+## File Descriptions:
+- [Basic_Sentiment_Analysis](https://github.com/masonlonoff/MovieReviews/blob/main/Basic_Sentiment_Analysis.ipynb): Contains the simple sentiment analysis with word clouds
+- [Advanced_Sentiment_Analysis]:(https://github.com/masonlonoff/MovieReviews/blob/main/Advanced_Sentiment_Analysis.ipynb): Contains code for sentiment analysis, aspect extraction, emotion analysis, and topic modeling
+
+
 ## Table of Contents:
 - [Description](#description)
 - [Objectives](#objectives)
@@ -12,11 +17,15 @@ This is a dataset for binary sentiment classification containing substantially m
 
 
 ## Objectives:
-1) Sentiment Analysis
-2) Opinion Mining using Aspect Extraction and Emotion Analysis
-3) Topic Modeling 
+1) Attempt to accurately calculate the sentiment of each review using VADER
+2) Utilize Aspect Extraction and Emotional Analysis to get a deeper understanding of each review
+3) Use Topic Modeling to classify each review
 
+   
 ## Strategic Plan of Action:
+1) Sentiment Analysis with Word Clouds
+2) Sentiment Analysis but incorporate Aspect Extraction and Emotional Analysis
+3) Perform Topic Modeling
 
 
 
